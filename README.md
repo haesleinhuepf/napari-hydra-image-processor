@@ -13,7 +13,7 @@ Process images using the [Hydra Image Processor](https://hydraimageprocessor.com
 
 ## Usage
 
-Filters, segmentation algorithms and measurements provided by this napari plugin can be found in the `Tools` menu. 
+Filters provided by this napari plugin can be found in the `Tools` menu. 
 You can recognize them with their suffix `(n-HIP)`.
 Furthermore, it can be used from the [napari-assistant](https://www.napari-hub.org/plugins/napari-assistant) graphical user interface. 
 Therefore, just click the menu `Tools > Utilities > Assistant (na)` or run `naparia` from the command line.
