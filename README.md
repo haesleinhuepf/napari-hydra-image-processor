@@ -9,7 +9,7 @@
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-hydra-image-processor)](https://napari-hub.org/plugins/napari-hydra-image-processor)
 [![DOI](https://zenodo.org/badge/432729955.svg)](https://zenodo.org/badge/latestdoi/432729955)
 
-Process images using [Hydra Image Processor](https://hydraimageprocessor.com/) and [CUDA-compatible graphics cards](https://developer.nvidia.com/cuda-toolkit) in [napari]
+Process images using the [Hydra Image Processor](https://hydraimageprocessor.com/) and [CUDA-compatible graphics cards](https://developer.nvidia.com/cuda-toolkit) in [napari]
 
 ## Usage
 
